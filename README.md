@@ -1,1 +1,5 @@
-# Robotika-2023-VM-VA
+# Robotika alapjai beadandó
+
+## Csapattagok
+- Vámos Ákos János
+- Vámos Márton István
