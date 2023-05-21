@@ -47,4 +47,35 @@ Elképzeléseink alapján egy futási időben is módosítható biztonsági szé
 
 
 ## 5. Forgatókönyvek
--
+### 5.1 Jelölések
+**Jelszó megadásánál**
+- Állapotok
+    - **S:** Start kezdőállapot
+    - **U:** UNLOCKED állapot
+    - ***:** LOCKED állapot
+    - **#:** Új jelszó állapot
+    - **PA:** Password Again állapot
+
+- Állapotátmenetek
+    - **success:** siker
+    - **failure:** hiba
+    - **'*' btn pressed:** * karakter lenyomása
+    - **'#' btn pressed:** # karakter lenyomása
+    - **4 character input pressed:** 4 karakternyi input lenyomása
+
+**Potenciométer forgatásánál**
+- Állapotok 
+    - **B:** (Bright) fényes kezdőállapot
+    - **M:** (Medium) közepesen fényes állapot
+    - **D:** (Dark) sötét állapot
+
+- Állapotátmenetek
+    - **kis fokozatú előre forgatás:** 1 egységnyi előre forgatás (TinkerCAD)
+    - **kis fokozatú visszaforgatás:** 1 egységnyi visszaforgatás (TinkerCAD)
+    - **előre forgatás:** tetszőleges "erősségű" előre forgatás
+    - **visszaforgatás:** tetszőleges "erősségű" visszaforgatás
+
+### 5.2 Állapotátmenet gráfok
+![Jelszó megadásainak állapotátmenet gráfja](img/jelszo_allapotatmenet.png)
+
+![Potenciométer állapotátmenet gráfja](img/potenciometer_allapotatmenet.png)
