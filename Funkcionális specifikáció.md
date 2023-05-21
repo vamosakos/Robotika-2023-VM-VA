@@ -21,7 +21,7 @@ Elképzeléseink alapján egy futási időben is módosítható biztonsági szé
 
 ## 4. Képerenyő tervek
 ### 4.1 Sematikus rajz
-![Sematikus rajz](Robotika-2023-VM-VA\img\Sematikus_rajz.png)
+![Sematikus rajz](img/Sematikus_rajz.png)
 
 
 ## 5. Forgatókönyvek
