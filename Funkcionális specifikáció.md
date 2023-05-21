@@ -15,8 +15,27 @@ Elképzeléseink alapján egy futási időben is módosítható biztonsági szé
 - 1db 220 Ω ellenállás
 - Jumper kábelek
 
+
 ## 3. Használati esetek
--
+- **ENTER PASSWORD**
+- 4 karakteres jelszó beírása a 4x4 mátrix billentyűzeten
+- Alapértelmezetten a jelszó: 1234
+
+- **WELCOME BACK / UNLOCKED**
+- 1 másodpercen keresztül letartott '#' gombbal jelszó változtatás
+- 1 másodpercen keresztül lertartott '*' gombbal lockolás (servo alaphelyzetbe kerül, azaz a széf ajtaja bezárul)
+
+- **SET NEW PASSWORD**
+- új 4 karakterből álló jelszó megadása, majd ennek ismétlése
+- Ha nem egyezik a két jelszó, vissza kerül a(z) UNLOCKED státuszba
+
+- **LOCKED**
+- A servo alaphelyzetbe kerül, újra meg kell adni a jelszót
+
+- **Potenciométer forgatása**
+- Alaphelyzetben világos kontraszt az LCD kijelzőn
+- Minimális forgatásra halvány kontraszt az LCD kijelzőn
+- Nagyobb forgatásra teljesen sötét kép az LCD kijelzőn
 
 
 ## 4. Képerenyő tervek
