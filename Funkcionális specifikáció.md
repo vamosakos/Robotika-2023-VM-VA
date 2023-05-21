@@ -23,6 +23,9 @@ Elképzeléseink alapján egy futási időben is módosítható biztonsági szé
 ### 4.1 Sematikus rajz
 ![Sematikus rajz](img/Sematikus_rajz.png)
 
+### 4.2 TinkerCAD tervrajz
+![TinkerCAD tervrajz](img/TinkerCAD_tervrajz.png)
+
 
 ## 5. Forgatókönyvek
 -
