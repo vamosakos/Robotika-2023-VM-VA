@@ -27,7 +27,7 @@ Elképzeléseink alapján egy futási időben is módosítható biztonsági szé
 
 - **SET NEW PASSWORD**
   - új 4 karakterből álló jelszó megadása, majd ennek ismétlése
-  - Ha nem egyezik a két jelszó, vissza kerül a(z) UNLOCKED státuszba
+  - Ha nem egyezik a két jelszó, visszakerül a(z) UNLOCKED státuszba
 
 - **LOCKED**
   - A servo alaphelyzetbe kerül, újra meg kell adni a jelszót
